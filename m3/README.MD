@@ -20,10 +20,15 @@ Summary:
     2) 2 epochs training on a full set of train data
 
   Inference:
+
     a) Prediction on a randomly selected tif image from train dataset based on model parameters trained from 1)
+
     b) Prediction on a randomly selected tif image from validation dataset based on model parameters trained from 1)
+
     c) Prediction on a randomly selected tif image from train dataset based on model parameters trained from 2)
+
     d) Prediction on a randomly selected tif image from validation dataset based on model parameters trained from 2)
+
   
 
 Findings:
@@ -33,6 +38,8 @@ The prediction outcome was much better from 10 epoches training on a subset of t
 However this outcome may vary should different optimizer and hypeparameters being chosen
 
 Understand that in theory if more training data are used, the generalization would be better
+
+
 
 Follow up work:
 
