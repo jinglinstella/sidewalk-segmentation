@@ -4,21 +4,22 @@ by Jinglin Tao (jt4296) and Grace Chen (fc2286)
 
 Overall framework: 
 
-  •	Refined sidewalk segmentation model (pre-trained in M3)
-
-     o	Inference: Points Prompt
-
-     o	Inference: Box Prompt
-
-  •	LangSam
-
-  •	Centerline
+    •	Refined sidewalk segmentation model (pre-trained in M3)
+  
+       o	Inference: Points Prompt
+  
+       o	Inference: Box Prompt
+  
+    •	LangSam
+  
+    •	Centerline
 
 Implementation Environment: Google Colab
 
 Source Data: Sidewalk train and validation data streamed from Huggingface
 
 Workflow:
+
 ![screenshot](workflow_chart.png)
  
 Our workflow for visual prompting and occlusion handling is summarized as above:
