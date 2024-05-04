@@ -1,3 +1,2 @@
-Please see the video link below:
-<br>
-https://drive.google.com/file/d/1C9tZSIiuzHWpwaJwSx894AlLrLHF1gZX/view?usp=drive_link
+- vide link: https://drive.google.com/file/d/1V22v9C5-_7RdHVffBTgInqyQS8B5beaN/view?usp=drive_link
+- Hugging Face space: https://huggingface.co/spaces/kitooo/sidewalk-segmentation
