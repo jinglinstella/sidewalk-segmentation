@@ -1,10 +1,17 @@
+M5: Visual Prompting and Occlusion Handling
 
+by Jinglin Tao (jt4296) and Grace Chen (fc2286)
 
 Overall framework: 
+
   •	Refined sidewalk segmentation model (pre-trained in M3)
+
      o	Inference: Points Prompt
+
      o	Inference: Box Prompt
+
   •	LangSam
+
   •	Centerline
 
 Implementation Environment: Google Colab
